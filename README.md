@@ -1,4 +1,4 @@
-# Magento 2 Module: CronStringValidator
+# Magento 2 Module: Stub
 
 ## How to use
 
