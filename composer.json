@@ -1,0 +1,27 @@
+{
+  "name": "websolute/magento-stub",
+  "description": "Stub controllers to simulate API calls",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "authors": [
+    {
+      "name": "Danilo Argentiero",
+      "email": "argentiero.danilo@gmail.com",
+      "homepage": "https://www.linkedin.com/in/daniloargentiero/",
+      "role": "Software Architect"
+    }
+  ],
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Websolute\\Stub\\": ""
+    }
+  }
+}
