@@ -1,5 +1,5 @@
 {
-  "name": "websolute/magento-stub",
+  "name": "websolutespa/magento-stub",
   "description": "Stub controllers to simulate API calls",
   "type": "magento2-module",
   "require": {
